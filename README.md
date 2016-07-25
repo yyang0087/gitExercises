@@ -1,1 +1,2 @@
-http://C1-SoftwareEngineeringSummit.github.io/GitExercise/index.html
+###View Site
+- see url above or the settings for this repo
